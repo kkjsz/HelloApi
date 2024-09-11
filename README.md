@@ -5,9 +5,9 @@
 - 轻量化部署
 
 # 截图
-![Home](https://user-images.githubusercontent.com/61397705/230703480-35ae55b9-f0d8-4d16-9a7a-0d0266a56315.png)
+
 ------
-![Info](https://user-images.githubusercontent.com/61397705/230703493-93169f71-9d59-4d22-be0d-e81f228d7dd0.png)
+![xq.jpg](https://tucdn.wpon.cn/2024/09/11/bf4537c74ec49.jpg)
 
 # Demo演示站
 

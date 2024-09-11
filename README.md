@@ -11,7 +11,7 @@
 
 # Demo演示站
 
-https://api.zxz.ee
+https://www.apikk.cn
 
 
 
